@@ -15,7 +15,7 @@ namespace SampleWebAppNandAzure.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Nandini Rajdev's Page!!!!!";
+            ViewBag.Message = "Nandini Rajdev's Page Updated!!!!!";
 
             return View();
         }
